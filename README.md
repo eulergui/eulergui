@@ -1,11 +1,6 @@
 Hi 👋 My name is Guilherme Euler
 ================================
 
-Developer and SysAdmin
-----------------------
-
-I started as programmer in 1997 with Perl language and shell script. Yes, it was a long time ago. At this time I also mantained some servers in FreeBSD like authentication server to a local internet provider, some DNS servers, mail servers, database servers and webservers. After that, I opened my own hosting company, first starting with FreeBSD but migrated fast to "default" ecosystem Linux/cPanel. At same time I started to program in PHP with MySQL as database. My company was active for 18 years, until I sell. I also learned a lot about WordPress, building some plugins and themes. At this time, I also made a lot of work on maintening and securing servers with WordPress with tools like CSF - ConfigServer Security and Firewall, ModSecurity WAf and a lot of tools to secure, hardening and optmizing servers to get the most powerfull performance and security to run WordPress websites.
-
 * 🌍  I'm based in Caldas Novas, GO - Brazil
 * ✉️  You can contact me at [eulergui@gmail.com](mailto:eulergui@gmail.com)
 * 🧠  I'm learning Python
