@@ -4,7 +4,7 @@ Hi 👋 My name is Guilherme Euler
 * 🌍  I'm based in Caldas Novas, GO - Brazil
 * ✉️  You can contact me at [eulergui@gmail.com](mailto:eulergui@gmail.com)
 * 🧠  I work primarily with PHP, but I also provide services involving Python, MicroPython, Arduino, ESP8266, and ESP32.
-*  Extensive experience with WordPress.
+* 🌐  Extensive experience with WordPress.
 
 ### Skills
 
